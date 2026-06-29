@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/param2234/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/param2234/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/param2234/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/param2234/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/param2234/LeetCode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/param2234/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/param2234/LeetCode-Questions/tree/master/0561-array-partition) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/param2234/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
