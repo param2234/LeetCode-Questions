@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/param2234/LeetCode-Questions/tree/master/0001-two-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/param2234/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/param2234/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/param2234/LeetCode-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/param2234/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/param2234/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
