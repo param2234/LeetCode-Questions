@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/param2234/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/param2234/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/param2234/LeetCode-Questions/tree/master/1518-water-bottles) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/param2234/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
