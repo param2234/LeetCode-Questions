@@ -60,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/param2234/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/param2234/LeetCode-Questions/tree/master/1518-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/param2234/LeetCode-Questions/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
