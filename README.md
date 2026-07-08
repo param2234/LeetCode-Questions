@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/param2234/LeetCode-Questions/tree/master/1518-water-bottles) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/param2234/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
