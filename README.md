@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/param2234/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/param2234/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1122-relative-sort-array](https://github.com/param2234/LeetCode-Questions/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/param2234/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/param2234/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/param2234/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/param2234/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/param2234/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/param2234/LeetCode-Questions/tree/master/1518-water-bottles) |
 ## Two Pointers
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/param2234/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/param2234/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/param2234/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
