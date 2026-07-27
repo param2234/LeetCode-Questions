@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/param2234/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0561-array-partition](https://github.com/param2234/LeetCode-Questions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/param2234/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/param2234/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1122-relative-sort-array](https://github.com/param2234/LeetCode-Questions/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/param2234/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/param2234/LeetCode-Questions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/param2234/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/param2234/LeetCode-Questions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/param2234/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/param2234/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/param2234/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1518-water-bottles](https://github.com/param2234/LeetCode-Questions/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/param2234/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/param2234/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
