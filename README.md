@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/param2234/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/param2234/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/param2234/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/param2234/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/param2234/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/param2234/LeetCode-Questions/tree/master/0724-find-pivot-index) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/param2234/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/param2234/LeetCode-Questions/tree/master/0561-array-partition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/param2234/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/param2234/LeetCode-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/param2234/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/param2234/LeetCode-Questions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
