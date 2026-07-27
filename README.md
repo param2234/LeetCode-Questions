@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/param2234/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/param2234/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0561-array-partition](https://github.com/param2234/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/param2234/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/param2234/LeetCode-Questions/tree/master/0724-find-pivot-index) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/param2234/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/param2234/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
