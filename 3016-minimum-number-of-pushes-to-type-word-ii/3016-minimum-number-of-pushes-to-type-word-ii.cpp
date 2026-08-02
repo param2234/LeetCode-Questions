@@ -19,21 +19,12 @@ public:
         });
 
         int ans = 0;
-        int curr = 0;
-        int count = 1;
-
-        while(n){
-            int num = min(n,8);
-            
-            for(int i = curr;i<num + curr;i++){
-                ans += freq[i] * count;
-            }
-
-            curr += num;
-            n -= num;
-            count++;
-
+       
+        for(int i = 0;i<n;i++){
+            ans += freq[i] * (i/8 +1);
         }
+
+        
 
         return ans;
     }
