@@ -1,24 +1,24 @@
 class Solution {
 public:
 
-    void dfs(vector<vector<char>>& grid, int& islands,int i,int j,int m,int n){
+    void dfs(vector<vector<char>>& grid,int i,int j,int m,int n){
 
         grid[i][j] = '0';
 
         if(i>=1 && grid[i-1][j] == '1'){
-            dfs(grid,islands,i-1,j,m,n);
+            dfs(grid,i-1,j,m,n);
         }
 
         if(j>=1 && grid[i][j - 1] == '1'){
-            dfs(grid,islands,i,j-1,m,n);
+            dfs(grid,i,j-1,m,n);
         }
 
         if(i<= m-2 && grid[i+1][j] == '1'){
-            dfs(grid,islands,i+1,j,m,n);
+            dfs(grid,i+1,j,m,n);
         }
 
         if(j<=n-2 && grid[i][j+1] == '1'){
-            dfs(grid,islands,i,j+1,m,n);
+            dfs(grid,i,j+1,m,n);
         }
     }
     int numIslands(vector<vector<char>>& grid) {
@@ -30,7 +30,7 @@ public:
             for(int j = 0;j<n;j++){
                 if(grid[i][j] == '1'){
                     islands++;
-                    dfs(grid,islands,i,j,m,n);
+                    dfs(grid,i,j,m,n);
                 }
             }
         }
